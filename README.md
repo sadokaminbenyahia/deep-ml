@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 5 problems · 0 labs · 6 math
+**12** solved · 6 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-09-30 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-09-30 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-09-30 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-09-30 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-09-30 | [solution](problems/0195-matrix-determinant-trace) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-09-30 | [solution](problems/0329-matrix-rank) |
