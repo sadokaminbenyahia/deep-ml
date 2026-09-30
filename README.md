@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 6 problems · 0 labs · 6 math
+**13** solved · 7 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-09-30 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-09-30 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-09-30 | [solution](problems/0195-matrix-determinant-trace) |
+| [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-09-30 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-09-30 | [solution](problems/0329-matrix-rank) |
 
 ## Math
