@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 4 problems · 0 labs · 6 math
+**11** solved · 5 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-09-30 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-09-30 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-09-30 | [solution](problems/0195-matrix-determinant-trace) |
+| [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-09-30 | [solution](problems/0329-matrix-rank) |
 
 ## Math
 
