@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**32** solved · 20 problems · 0 labs · 12 math
+**33** solved · 21 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-10-02 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-09-30 | [solution](problems/0195-matrix-determinant-trace) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-10-02 | [solution](problems/0112-min-max-scaling-of-feature-values) |
+| [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-10-02 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-10-02 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-02 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-09-30 | [solution](problems/0037-calculate-correlation-matrix) |
