@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 18 problems · 0 labs · 12 math
+**31** solved · 19 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-10-01 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-09-30 | [solution](problems/0329-matrix-rank) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-10-01 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
+| [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-10-02 | [solution](problems/0842-standardscaler-fit-and-transform) |
 
 ## Math
 
