@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**39** solved · 26 problems · 1 labs · 12 math
+**40** solved · 27 problems · 1 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-09-30 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-09-30 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-09-30 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Calculate R-squared for Regression Analysis](https://www.deep-ml.com/problems/69) | easy | 2026-10-03 | [solution](problems/0069-calculate-r-squared-for-regression-analysis) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-09-30 | [solution](problems/0331-check-linear-independence-of-vectors) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-10-02 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-09-30 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
